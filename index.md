@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Vazina Robertson === vpn
 
 You can use the [editor on GitHub](https://github.com/vazina-robertson/portfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About me
 
-### Markdown
+Hi, I'm a Wonder Woman, kind of... I'm a web-developer. I write my code in JavaScript, and containerize it through Docker files. I also talk to node.js, express, HTML/CSS and both relational and non-relational databases.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Please visit my projects page for more information.
 
+Also be sure to visit my github page:
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+https://github.com/vazina-robertson
 ```
+In 2016, I graduated from Texas State University with BS in Computer Science and minored in Applied Mathematics. Its then I decided to try web-development for the first time, and found it to be a path where art and science meet together to create beautiful web-pages.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Being fluent in several languages, I am also providing professional translation and interpretation services at inlingua.Inc since July of 2015. I'm a native speaker of Russian, Kazakh and Uzbek languages.
 
-### Jekyll Themes
+In my free time, I enjoy spending few hours a day on learning the new skills, exploring the city of Austin, traveling across the country, and spending quality time with my little daughter.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vazina-robertson/portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
